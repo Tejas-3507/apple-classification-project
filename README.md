@@ -1,6 +1,6 @@
 # Apple Classification using TensorFlow
 
-This project uses Deep Learning and TensorFlow to classify fruit images.
+This project uses Deep Learning and TensorFlow to classify apple images.
 
 ## Features
 
